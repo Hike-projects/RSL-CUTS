@@ -1,0 +1,4 @@
+baseURL = "https://example.com/"  # Replace with your actual domain or leave as is for testing
+languageCode = "en-us"
+title = "My Hugo Website"
+theme = "hugo-paper"  # The theme you cloned
